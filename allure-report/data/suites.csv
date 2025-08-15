@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","12466","When I search for ""WebdriverIO tutorial""","","Fri Aug 15 07:14:52 PKT 2025","passed","Fri Aug 15 07:15:05 PKT 2025","","Search for videos on YouTube iOS: Search and filter videos","",""
+"","4","hook:","","Fri Aug 15 07:16:29 PKT 2025","failed","Fri Aug 15 07:16:29 PKT 2025","","","",""
+"","1848","Given the YouTube app is launched","","Fri Aug 15 07:14:50 PKT 2025","passed","Fri Aug 15 07:14:52 PKT 2025","","Search for videos on YouTube iOS: Search and filter videos","",""
+"","84817","Then I should see videos with keyword ""WebdriverIO"" or ""Automation"" or ""Test"" under 5 minutes","","Fri Aug 15 07:15:05 PKT 2025","passed","Fri Aug 15 07:16:29 PKT 2025","","Search for videos on YouTube iOS: Search and filter videos","",""
